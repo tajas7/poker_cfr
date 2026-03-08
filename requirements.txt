@@ -1,0 +1,4 @@
+random
+matplotlib
+numpy
+os
